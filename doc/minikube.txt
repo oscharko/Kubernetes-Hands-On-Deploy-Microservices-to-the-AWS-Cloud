@@ -1,2 +1,4 @@
 Terminal commands
+- minikube start
 - minikube dashboard
+- minikube stop
