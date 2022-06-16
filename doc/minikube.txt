@@ -1,0 +1,2 @@
+Terminal commands
+- minikube dashboard
